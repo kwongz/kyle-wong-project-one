@@ -315,6 +315,7 @@ footer .copyright {
     color:#F4F4F4;
     text-align: center;
     background:#1F2022;
+    padding: 2px 0px;
 }
 
 
@@ -624,7 +625,7 @@ footer a:focus {
     h1 {
         right: 5%;
         top: 52%;
-        font-size: 68px;
+        font-size: 62px;
     }
 
     h2 {
